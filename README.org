@@ -1,0 +1,9 @@
+* cl-json-pointer
+
+JSON Pointer processor for Common Lisp
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/y2q-actionman/cl-json-pointer.git |
+| commit  | f6760e2                                                  |
+| systems | cl-json-pointer                                          |
+|---------+----------------------------------------------------------|
